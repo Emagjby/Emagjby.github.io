@@ -1,2 +1,4 @@
-console.log("Hello world, gencho");
-console.log("Second message incoming");
+fetch("https://bored-api.appbrewery.com/random")
+  .then((response) => response.json())
+  .then((data) => console.log(data))
+  .catch((error) => console.error("Error fetching activity:", error));
