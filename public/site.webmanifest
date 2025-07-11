@@ -1,0 +1,21 @@
+{
+  "name": "GenchoXD - Software Engineer Portfolio",
+  "short_name": "GenchoXD",
+  "description": "18-year-old Software Engineer specializing in full-stack web applications, CLI tools, and system utilities.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#0a0a0a",
+  "theme_color": "#6366f1",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "developer", "portfolio"],
+  "lang": "en",
+  "scope": "/"
+} 
